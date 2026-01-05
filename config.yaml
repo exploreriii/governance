@@ -102,10 +102,11 @@ teams:
   - name: hiero-sdk-good-first-issue-support
     maintainers:
       - hendrikebbers
-    members:
-      - exploreriii
       - aceppaluni
+      - exploreriii
+    members:
       - rwalworth
+      - MonaaEid
   - name: hiero-mirror-node-committers
     maintainers:
       - steven-sheehy
